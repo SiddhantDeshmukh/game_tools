@@ -1,0 +1,10 @@
+Size,Num_Units,CR_Adjust,Stat_Adjust,HP_Adjust,ACR
+Fine,1,0,0,0,-8
+Diminutive,10,6,12,90,-6
+Tiny,25,9,18,135,-4
+Small,50,11,22,165,-2
+Medium,100,13,26,195,0
+Large,200,15,30,225,2
+Huge,500,18,36,270,4
+Gargantuan,1000,20,40,300,6
+Colossal,2000,22,44,330,8
