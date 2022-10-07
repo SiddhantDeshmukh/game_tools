@@ -1,4 +1,4 @@
-Size,Num_Units,CR_Adjust,Stat_Adjust,HP_Adjust,ACR
+size,num_units,level_adjust,stat_adjust,hp_adjust,army_level_adjust
 Fine,1,0,0,0,-8
 Diminutive,10,6,12,90,-6
 Tiny,25,9,18,135,-4
